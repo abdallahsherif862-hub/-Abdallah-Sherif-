@@ -1,0 +1,6 @@
+{
+  "name": "Beyti - Homemade Egyptian Food for Businesses",
+  "description": "Premium B2B corporate meal subscriptions delivering authentic, freshly prepared Egyptian homemade food to offices across Egypt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
